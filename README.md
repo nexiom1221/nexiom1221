@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JONGHWA&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=WELCOME&fontSize=90)
+<br/>
+<h5 align="center">🇰🇷 :jp: </h5>
 
-
-
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<!-- Heading -->
+## <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -20,6 +21,10 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>&nbsp 
 </br>
 
-<h3 align="center"><b>:mega: Contact</b></h3>
+# <h3 align="center"><b>:books: Studied Book</b></h3>
+</br>
+
+# <h3 align="center"><b>:mega: Contact</b></h3>
+</br>
 <p align="center">
 <a href="https://www.instagram.com/o.jonghwa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.jonghwa/"/></a>&nbsp
