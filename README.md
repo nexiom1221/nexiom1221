@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>&nbsp 
 </br>
 
-# <h3 align="center"><b>:books: Studied Book</b></h3>
+# <h3 align="center"><b>:books: The book I studied</b></h3>
 </br>
 
 # <h3 align="center"><b>:mega: Contact</b></h3>
