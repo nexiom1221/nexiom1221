@@ -30,4 +30,4 @@
 # <h3 align="center"><b>:mega: Contact</b></h3>
 </br>
 <p align="center">
-<a target="_blank" href="https://www.instagram.com/o.jonghwa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.jonghwa/"/ ></a>&nbsp
+<a href="https://www.instagram.com/o.jonghwa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.jonghwa/"/></a>&nbsp
