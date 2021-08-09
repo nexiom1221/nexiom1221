@@ -27,7 +27,15 @@
 </br>
 -->
 
-# <h3 align="center"><b>:mega: Contact</b></h3>
+## <h3><b>:mega: Contact</b></h3>
 </br>
-<p align="center">
-<a href="https://www.instagram.com/o.jonghwa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.jonghwa/"/></a>&nbsp
+
+<a href="https://www.instagram.com/o.jonghwa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.jonghwa/"/></a>
+  
+## <h3><b>:computer: Blog</b></h3>
+
+<a href="https://ojh-1221.tistory.com/" target="_blank">
+<ul>
+  <li>Tistory</li>
+  </ul>
+</a>
