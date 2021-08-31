@@ -30,11 +30,11 @@
 ## <h3><b>:mega: Contact</b></h3>
 </br>
 
-<a href="https://www.instagram.com/o.jonghwa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.jonghwa/"/></a>
+<a href="https://www.instagram.com/o.jonghwa/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.jonghwa/"/></a>
   
 ## <h3><b>:computer: Blog</b></h3>
 
-<a href="https://ojh-1221.tistory.com/" target="_blank">
+<a href="https://ojh-1221.tistory.com/" target="_blank" rel="noreferrer noopener">
 <ul>
   <li>Tistory</li>
   </ul>
