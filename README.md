@@ -34,7 +34,7 @@
   
 ## <h3><b>:computer: Blog</b></h3>
 
-<a href="https://ojh-1221.tistory.com/" target="_blank" rel="noreferrer noopener">
+<a href="https://ojh-1221.tistory.com/category/IT" target="_blank" rel="noreferrer noopener">
 <ul>
   <li>Tistory</li>
   </ul>
