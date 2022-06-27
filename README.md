@@ -34,6 +34,8 @@
 </br>
 
 <a href="https://www.instagram.com/o.jonghwa/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.jonghwa/"/></a>
+</br></br>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   <bold>superdizmon1@gmail.com</bold>
   
 ## <h3><b>:computer: Blog</b></h3>
 
