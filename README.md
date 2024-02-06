@@ -20,6 +20,7 @@
 
 </br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/angular-0F0F11?style=flat-square&logo=angular&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>&nbsp
 
 </br>
