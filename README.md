@@ -15,14 +15,17 @@
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-</br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
 
 </br>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/dotnet-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>&nbsp
+
+</br>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>&nbsp
+
 </br>
 
 <!--
@@ -48,7 +51,7 @@
 <ul>
   <li>Portfolio</li>
 </ul>
-<strong>AWS service Temporarily stop</strong>
+<strong>AWS service Temporarily stop(AWS 비용때문에 중단중)</strong>
 </a>
 
 ## 
